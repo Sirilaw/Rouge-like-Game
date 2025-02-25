@@ -1,0 +1,50 @@
+[属性一览表]
+
+[Character]
+[Antony]
+- max_hp  = 500
+- atk_value(basic) = 25
+- hurt_radius(basic) = 30
+- speed(basic) = 10  
+[Sigma]
+- max_hp = 700
+- atk_value(basic) = 35
+- hurt_radius(basic) = 50
+- speed(basic) = 12
+
+[Weapon]
+[Atkwing]
+- atk_value(basic) = 25
+- hurt_radius(basic) = 20
+- speed(basic) = 15
+
+[Enemy]
+[Skeleton]
+- max_hp = 50
+- atk_value = 15
+- hurt_radius = 5
+- speed = 4
+[Ghost]
+- max_hp = 65
+- atk_value = 20
+- hurt_radius = 60
+- speed = 6
+
+[Global Enhance]
+- player_atk_enhance += 10  
+- player_hr_enhance += 5
+- player_speed_enhance += 3
+- weapon_atk_enhance += 10
+- weapon_hr_enhance += 5
+- weapon_speed_enhance += 5
+- item_frequency -= 50
+
+[Global Info]
+- total_coin_num
+- max_enemy_killed_num
+- max_survival_time
+- weapon_produce_frequency
+- enemy_produce_frequency
+
+
+

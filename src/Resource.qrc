@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/welcome.jpg</file>
+        <file>image/Antonio.jpg</file>
+        <file>image/grass.jpg</file>
+        <file>image/fire.png</file>
+        <file>image/skeleton.jpg</file>
+        <file>image/ghost.jpg</file>
+        <file>image/earthpath.png</file>
+        <file>image/Sigma.jpg</file>
+        <file>image/earth.png</file>
+        <file>image/thickgrass.png</file>
+        <file>image/atkwing.jpg</file>
+        <file>image/coin.jpg</file>
+        <file>image/shop.png</file>
+        <file>image/mainwindow.png</file>
+        <file>image/swxrhT.gif</file>
+        <file>image/gold_coin.png</file>
+        <file>image/introduction.png</file>
+        <file>image/start_button.png</file>
+        <file>image/setbk.png</file>
+        <file>image/shelf.png</file>
+        <file>image/shopbutton.png</file>
+        <file>image/expr_00.png</file>
+        <file>image/expr_01.png</file>
+        <file>image/expr_02.png</file>
+        <file>image/bottom_info.png</file>
+        <file>image/right_info.png</file>
+        <file>image/top_info.png</file>
+        <file>image/enhance_1.png</file>
+        <file>image/level_up.png</file>
+        <file>image/gameover_window.png</file>
+        <file>image/halt.png</file>
+        <file>image/exit.png</file>
+        <file>image/exprience.jpg</file>
+        <file>image/Battery.png</file>
+        <file>image/PotionRed.png</file>
+        <file>image/Coin2.png</file>
+        <file>image/ground_1.png</file>
+        <file>image/ground_2.png</file>
+        <file>image/ground_3.png</file>
+        <file>image/ground_4.png</file>
+        <file>image/obstacle.png</file>
+        <file>image/shop_1.png</file>
+        <file>image/shop_2.png</file>
+        <file>image/shop_3.png</file>
+        <file>music/The Verdant Grove LOOP.wav</file>
+    </qresource>
+</RCC>

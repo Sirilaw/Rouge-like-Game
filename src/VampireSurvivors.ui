@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>VampireSurvivorsClass</class>
+ <widget class="QWidget" name="VampireSurvivorsClass" >
+  <property name="objectName" >
+   <string notr="true">VampireSurvivorsClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>VampireSurvivors</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="VampireSurvivors.qrc"/>
+ </resources>
+ <connections/>
+</UI>
